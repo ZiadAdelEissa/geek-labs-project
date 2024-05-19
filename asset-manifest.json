@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.63f061a0.css",
-    "main.js": "/static/js/main.479bdfc4.js",
-    "static/js/453.568461a6.chunk.js": "/static/js/453.568461a6.chunk.js",
+    "main.js": "/static/js/main.00f70e16.js",
+    "static/js/453.fc50da77.chunk.js": "/static/js/453.fc50da77.chunk.js",
     "static/media/logo.png": "/static/media/logo.cee54732eb3643f9df54.png",
     "static/media/automation.svg": "/static/media/automation.0108ed35447ca4913ade33e086e87657.svg",
     "static/media/riskIcon.svg": "/static/media/riskIcon.4cab643abade9ccd68b93d0b353f68a7.svg",
@@ -17,11 +17,11 @@
     "static/media/trading.svg": "/static/media/trading.a74909dbfc4b912e054b956a3d72ffca.svg",
     "static/media/DropDownIcon.svg": "/static/media/DropDownIcon.59262a560e3f97277939d054ca3354dd.svg",
     "main.63f061a0.css.map": "/static/css/main.63f061a0.css.map",
-    "main.479bdfc4.js.map": "/static/js/main.479bdfc4.js.map",
-    "453.568461a6.chunk.js.map": "/static/js/453.568461a6.chunk.js.map"
+    "main.00f70e16.js.map": "/static/js/main.00f70e16.js.map",
+    "453.fc50da77.chunk.js.map": "/static/js/453.fc50da77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63f061a0.css",
-    "static/js/main.479bdfc4.js"
+    "static/js/main.00f70e16.js"
   ]
 }
